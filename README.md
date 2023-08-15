@@ -2,7 +2,10 @@
 
 
 
-Hi, I'm     Adedokun Peter Opeyemi <br>I am an outstanding Frontend Developer with extensive knowledge of Javascript and browser API as well as significant experience with popular frameworks and libraries like React and Redux. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.
+Hi, I'm     Adedokun Peter Opeyemi <br>
+
+
+I am an outstanding Frontend Developer with extensive knowledge of Javascript and browser API as well as significant experience with popular frameworks and libraries like React and Redux. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/peter-adedokun-111966231/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/peteradedokun7) 
