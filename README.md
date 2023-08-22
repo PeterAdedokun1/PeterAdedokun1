@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I'm     Adedokun Peter Opeyemi <br>
+Hi, I'm Adedokun Peter Opeyemi <br>
 
 
 
