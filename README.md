@@ -1,6 +1,5 @@
 
 # 💫 About Me:
-
 Hi, I'm Adedokun Peter Opeyemi <br>
 
 I am an outstanding Full-Stack Developer with extensive knowledge of JavaScript and browser API as well as significant experience with popular frameworks and libraries like React, Redux and NodeJs. Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Eager to tackle more complex problems and continue to 
