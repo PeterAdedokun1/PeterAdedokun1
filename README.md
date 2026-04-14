@@ -3,9 +3,9 @@
 
 Hi, I'm Adedokun Peter Opeyemi <br>
 
- I am a Full-Stack Web3 Developer with a strong foundation in frontend engineering and extensive experience in blockchain
-development. I specialize in creating, auditing, and deploying Solidity smart contracts while integrating them with React/Next.js applications using Ethers.js. I am passionate about delivering production-ready decentralized applications and have solid expertise
-in both smart contract and frontend development
+I am a Full-Stack Engineer with a strong foundation in frontend development and over five years of experience building scalable, high-performance web applications. I specialize in developing modern user interfaces using React and Next.js, with a focus on performance, maintainability, and great user experience.
+
+I have experience integrating REST APIs and real-time systems, managing complex state, and building production-ready applications from end to end. I’m passionate about crafting clean, reliable software and continuously improving both user experience and system performance.
 
 
 
