@@ -1,12 +1,13 @@
 
 # 💫 About Me:
 
-Hi, I'm Adedokun Peter Opeyemi <br>
+Hi, I'm Adedokun Peter Opeyemi
 
-I am a Full-Stack Engineer with a strong foundation in frontend development and over five years of experience building scalable, high-performance web applications. I specialize in developing modern user interfaces using React and Next.js, with a focus on performance, maintainability, and great user experience.
+I am a Product Engineer with a strong background in frontend and full-stack development, and over five years of experience building production web applications. I specialize in turning product ideas into working software, with a focus on user experience, performance, and scalable system design.
 
-I have experience integrating REST APIs and real-time systems, managing complex state, and building production-ready applications from end to end. I’m passionate about crafting clean, reliable software and continuously improving both user experience and system performance.
+I work primarily with React and Next.js, building modern interfaces, integrating APIs, and shipping features end to end. I have led frontend architecture on large-scale products, implemented complex payment systems, and built real-time features that improve user engagement and product outcomes.
 
+I enjoy working at the intersection of product and engineering, where decisions are driven by user needs, not just code. My focus is building software that is practical, maintainable, and aligned with real product goals.
 
 
 ## 🌐 Socials:
